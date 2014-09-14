@@ -12,4 +12,4 @@ RUN chmod 755 baasbox-0.8.3/start
 
 
 EXPOSE 9000
-CMD baasbox-0.8.3/startiFROM dockerfile/java
+CMD baasbox-0.8.3/start
