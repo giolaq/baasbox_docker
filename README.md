@@ -22,7 +22,7 @@ This repository contains **Dockerfile** of [BaasBox](http://www.baasbox.com/) fo
 
 ### Usage
 
-    docker run -d -p 9000:9000 dockerfile/baasbox
+    docker run -d -p 9000:9000 joaobiriba/baasbox
 
 
 
